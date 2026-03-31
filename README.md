@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![2262-pink-laptop](https://github.com/user-attachments/assets/27e7ad13-1015-4e0d-be8e-61f58f621798)
+⋆⁺｡˚⋆˙‧₊☽ ◯ ☾₊‧˙⋆˚｡⁺⋆⁺｡˚⋆˙‧₊☽ ◯ ☾₊‧˙⋆˚｡⁺⋆
+Alpha programmer
+
+Bello! I'm Amaris Maldonado, currently studying computer science at St.Mary's University and based in Texas🤠
+
+I am 
