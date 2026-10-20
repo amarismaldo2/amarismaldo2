@@ -22,7 +22,7 @@ Alpha programmer
 
 Bello! I'm Amaris Maldonado, currently studying computer science at St.Mary's University and based in San Antonio🤠
 
-I'm currently focused on data science and cybersecurity, building projects that explore real-world problems at the intersection of data, system, and security. 
+I'm currently focused on networking cybersecurity, building projects that explore real-world problems at the intersection of data, system, and security. 
 
 ⚡ what i do
   building: data science & cybersecurity projects
@@ -30,8 +30,16 @@ I'm currently focused on data science and cybersecurity, building projects that 
   interested in: internships, research, and technical collaboration
 
 🧠 experience
-Peer Tutor (Computer Science)
+Peer Tutor (Computer Science + mathematics)
 helped students understand programming concepts, debugging, and problem-solving
+
+Field Desktop Technician
+•	Provide technical support for end users by diagnosing and resolving hardware, software, and system-related issues across office and field environments.
+
+(Project StudentBench) Handshake AI, Remote
+Leverage computer science expertise to evaluate, train, and enhance Large Language Model (LLM) capabilities within specialized technical domains.
+
+
 
 🏆 highlights
   1st Place — 19th Semi-Annual StMU Research Scholars
